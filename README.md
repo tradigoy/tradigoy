@@ -48,4 +48,4 @@ I've gained experience across **Azure, GCP, Scaleway and AWS**. I specialize in 
 ---
 
 ### **📌 Where to find me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothe-radigoy/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothé-radigoy/)  
