@@ -2,7 +2,7 @@
 
 # Hey! Welcome to my page 👋
 
-### Timothé RADIGOY — DevOps & Cloud Engineer
+### Timothé RADIGOY - DevOps & Cloud Engineer
 
 📍 Île-de-France, France &nbsp;·&nbsp; 🗣 Français / English
 
@@ -21,7 +21,7 @@ I've gained experience across **Azure, GCP, Scaleway and AWS**, specializing in 
 ### 🛠 What I'm Working On
 
 - 💼 Currently on assignment at a **large enterprise** as a **DevOps & Cloud Engineer**.
-- 🎓 Building a **technical training & mentoring platform** — hands-on courses with in-browser practice labs, auto-graded guided exercises, and a dedicated space to track learners' progress.
+- 🎓 Building a **technical training & mentoring platform** - hands-on courses with in-browser practice labs, auto-graded guided exercises, and a dedicated space to track learners' progress.
 - 📚 Designing **technical trainings** (starting with Kubernetes) to share knowledge and help others level up.
 - 🧪 Continuously improving my **self-hosted k3s homelab** and exploring new cloud-native tooling.
 
@@ -29,10 +29,10 @@ I've gained experience across **Azure, GCP, Scaleway and AWS**, specializing in 
 
 ### 📂 Featured Projects
 
-- **🎓 Training & Mentoring Platform** — A self-hosted learning platform: static course site, in-browser practice **sandboxes**, auto-graded guided labs, and an admin space to manage environments and follow learners. Runs on **k3s** with **GitOps** delivery via **ArgoCD**.
-- **☸️ Personal Kubernetes Cluster** — A self-hosted **k3s** cluster on bare-metal cloud, fully managed as code with **Terraform** & **Ansible**, GitOps delivery via **ArgoCD**, TLS automation with **cert-manager**, and ingress through **Traefik**.
-- **🌐 Self-hosted Web Apps** — Several personal applications containerized as **multi-arch images**, built and published through **GitHub Actions**, and deployed continuously to the cluster.
-- **⚙️ Infrastructure as Code** — Reusable Terraform modules and Ansible playbooks to provision and configure cloud infrastructure in a reproducible, version-controlled way.
+- **🎓 Training & Mentoring Platform** - A self-hosted learning platform: static course site, in-browser practice **sandboxes**, auto-graded guided labs, and an admin space to manage environments and follow learners. Runs on **k3s** with **GitOps** delivery via **ArgoCD**.
+- **☸️ Personal Kubernetes Cluster** - A self-hosted **k3s** cluster on bare-metal cloud, fully managed as code with **Terraform** & **Ansible**, GitOps delivery via **ArgoCD**, TLS automation with **cert-manager**, and ingress through **Traefik**.
+- **🌐 Self-hosted Web Apps** - Several personal applications containerized as **multi-arch images**, built and published through **GitHub Actions**, and deployed continuously to the cluster.
+- **⚙️ Infrastructure as Code** - Reusable Terraform modules and Ansible playbooks to provision and configure cloud infrastructure in a reproducible, version-controlled way.
 
 ---
 
@@ -57,7 +57,7 @@ I've gained experience across **Azure, GCP, Scaleway and AWS**, specializing in 
 
 ### 📖 Certifications
 
-- ✅ **AZ-900** – Microsoft Azure Fundamentals
+- ✅ **AZ-900** - Microsoft Azure Fundamentals
 - ✅ **Terraform Associate**
 - ✅ **Red Hat Enterprise Linux Automation with Ansible (RH294)**
 
@@ -69,7 +69,7 @@ I've gained experience across **Azure, GCP, Scaleway and AWS**, specializing in 
 
 ⏳ **Targeting next:**
 - 🎯 GCP Associate Cloud Engineer
-- 🎯 CKA – Certified Kubernetes Administrator
+- 🎯 CKA - Certified Kubernetes Administrator
 
 ---
 
