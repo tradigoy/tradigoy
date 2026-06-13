@@ -4,7 +4,7 @@
 
 ### Timothé RADIGOY — DevOps & Cloud Engineer
 
-📍 Île-de-France, France
+📍 Île-de-France, France &nbsp;·&nbsp; 🗣 Français / English
 
 </div>
 
@@ -15,6 +15,24 @@
 Hi there! I'm a **DevOps & Cloud Engineer** passionate about **automation, cloud infrastructure, and continuous deployment**. I love designing scalable, reliable and cost-efficient systems.
 
 I've gained experience across **Azure, GCP, Scaleway and AWS**, specializing in **CI/CD pipelines, Kubernetes orchestration, infrastructure automation, and cloud cost optimization**. I also run my own homelab and enjoy learning new technologies and sharing knowledge.
+
+---
+
+### 🛠 What I'm Working On
+
+- 💼 Currently on assignment at a **large enterprise** as a **DevOps & Cloud Engineer**.
+- 🎓 Building a **technical training & mentoring platform** — hands-on courses with in-browser practice labs, auto-graded guided exercises, and a dedicated space to track learners' progress.
+- 📚 Designing **technical trainings** (starting with Kubernetes) to share knowledge and help others level up.
+- 🧪 Continuously improving my **self-hosted k3s homelab** and exploring new cloud-native tooling.
+
+---
+
+### 📂 Featured Projects
+
+- **🎓 Training & Mentoring Platform** — A self-hosted learning platform: static course site, in-browser practice **sandboxes**, auto-graded guided labs, and an admin space to manage environments and follow learners. Runs on **k3s** with **GitOps** delivery via **ArgoCD**.
+- **☸️ Personal Kubernetes Cluster** — A self-hosted **k3s** cluster on bare-metal cloud, fully managed as code with **Terraform** & **Ansible**, GitOps delivery via **ArgoCD**, TLS automation with **cert-manager**, and ingress through **Traefik**.
+- **🌐 Self-hosted Web Apps** — Several personal applications containerized as **multi-arch images**, built and published through **GitHub Actions**, and deployed continuously to the cluster.
+- **⚙️ Infrastructure as Code** — Reusable Terraform modules and Ansible playbooks to provision and configure cloud infrastructure in a reproducible, version-controlled way.
 
 ---
 
@@ -37,14 +55,6 @@ I've gained experience across **Azure, GCP, Scaleway and AWS**, specializing in 
 
 ---
 
-### 📂 Featured Projects
-
-- **☸️ Personal Kubernetes Cluster** — A self-hosted **k3s** cluster running on bare-metal cloud, fully managed as code with **Terraform** & **Ansible**, GitOps delivery via **ArgoCD**, TLS automation with **cert-manager**, and ingress through **Traefik**.
-- **🌐 Self-hosted Web Apps** — Several personal applications (portfolio, web tooling) containerized as **multi-arch images**, built and published through **GitHub Actions**, and deployed continuously to the cluster.
-- **⚙️ Infrastructure as Code** — Reusable Terraform modules and Ansible playbooks to provision and configure cloud infrastructure in a reproducible, version-controlled way.
-
----
-
 ### 📖 Certifications
 
 - ✅ **AZ-900** – Microsoft Azure Fundamentals
@@ -55,10 +65,10 @@ I've gained experience across **Azure, GCP, Scaleway and AWS**, specializing in 
 
 ### 🎯 Learning & Growth
 
-🔍 **Currently exploring:** AWS services (IAM, Lambda, ECS, S3), Kubernetes security best practices, and GitOps with FluxCD & ArgoCD.
+🔍 **Currently exploring:** Google Cloud services, Kubernetes security best practices, and GitOps with FluxCD & ArgoCD.
 
 ⏳ **Targeting next:**
-- 🎯 AWS Certified Cloud Practitioner
+- 🎯 GCP Associate Cloud Engineer
 - 🎯 CKA – Certified Kubernetes Administrator
 
 ---
@@ -77,4 +87,5 @@ I've gained experience across **Azure, GCP, Scaleway and AWS**, specializing in 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothé-radigoy/)
 [![Website](https://img.shields.io/badge/Website-tradigoy.cloud-%23000000.svg?style=for-the-badge&logo=icloud&logoColor=white)](https://tradigoy.cloud)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tradigoy)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timotherr@outlook.fr)
